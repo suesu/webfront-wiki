@@ -1,5 +1,3 @@
-title: 注释规范
----
 
 > Comments begin with the characters `/*` and end with the characters `*/`. They may occur anywhere outside other tokens, and their contents have no influence on the rendering. Comments may not be nested.
 

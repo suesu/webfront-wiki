@@ -1,5 +1,3 @@
-title: 媒体查询
----
 
 设备尺寸参考 ：[Mobile devices](http://mydevice.io/devices/)
 

@@ -1,5 +1,5 @@
 - 开始使用
-- - [概述](/specification/index.md)
+- - [概述](/specification/README.md)
 - HTML 代码
 - - [代码规范](/specification/html/code.md)
 - - [注释规范](/specification/html/note.md)

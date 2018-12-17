@@ -1,4 +1,4 @@
-###Web/浏览器 API
+### Web/浏览器 API
 
 BOM 和 DOM 并不是唯一的浏览器 API, 在浏览器内部的 Web 平台上, 它们是可用的. DOM 和 BOM 并不是一切, 但是一个用于浏览器编程的接口可以被认识一个 Web 或者 浏览器 API(悲剧的是, 这些 API 曾被称为 HTML 5 API, 这会和 HTML 5 自身的规范/标准混淆, 因为 HTML 5 规范特指 HTML 5 标记语言). Web 或浏览器 API 也会包括访问设备的 API(如: [`Navigator.getBattery()`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery)), 通过平板和手机设备上的浏览器可以利用这些 API.
 

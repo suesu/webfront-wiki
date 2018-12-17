@@ -2,7 +2,6 @@
   - [前端生态](ef-admin/prepare.md)
   - [开发工具](ef-admin/tool.md)
 - 基础
-
   - [功能](ef-admin/README.md)
   - [布局](ef-admin/layout.md)
   - [路由和菜单](ef-admin/router-and-nav.md)

@@ -1,4 +1,4 @@
-###多平台开发
+### 多平台开发
 
 ![multi-things-dev](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/things.jpg)
 

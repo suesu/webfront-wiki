@@ -1,5 +1,3 @@
-title: 代码规范
----
 
 ## DOCTYPE 声明
 

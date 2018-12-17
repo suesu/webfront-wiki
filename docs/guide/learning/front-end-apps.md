@@ -1,4 +1,4 @@
-###前端应用架构设计
+### 前端应用架构设计
 
 * [JavaScript Web 应用开发](http://www.amazon.cn/JavaScript-Web%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91-%E9%98%BF%E6%A0%B9%E5%BB%B7-%E6%AF%94%E7%93%A6%E5%8D%A1/dp/B016I9T8QI/ref=sr_1_2) [read][RMB]
 * [用 React & Ampersand 构建 APP](http://learn.humanjavascript.com/react-ampersand) [watch][$]

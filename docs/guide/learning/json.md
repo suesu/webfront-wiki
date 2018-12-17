@@ -1,4 +1,4 @@
-###JSON(JavaScript Object Notation)
+### JSON(JavaScript Object Notation)
 
 >JSON, 有时也称 JavaScript 对象表示, 是一种使用人类可读的文本传输由键值对组成的数据对象的开放格式. 对于异步浏览器/服务器通信(AJAJ), JSON 是主要的数据格式, 很大程度上代替了 XML(AJAX).
 
